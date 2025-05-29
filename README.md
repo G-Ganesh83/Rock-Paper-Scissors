@@ -1,5 +1,5 @@
 # Rock Paper Scissors
----
+
 This is my **first project**! In this project, I used the following tech stack:
 
 ## Tech stacks
